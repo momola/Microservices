@@ -1,0 +1,10 @@
+E:\projekty\Micro1\src\Services\Transactions\bin\Debug\netcoreapp2.0\Transactions.deps.json
+E:\projekty\Micro1\src\Services\Transactions\bin\Debug\netcoreapp2.0\Transactions.runtimeconfig.json
+E:\projekty\Micro1\src\Services\Transactions\bin\Debug\netcoreapp2.0\Transactions.runtimeconfig.dev.json
+E:\projekty\Micro1\src\Services\Transactions\bin\Debug\netcoreapp2.0\Transactions.dll
+E:\projekty\Micro1\src\Services\Transactions\bin\Debug\netcoreapp2.0\Transactions.pdb
+E:\projekty\Micro1\src\Services\Transactions\obj\Debug\netcoreapp2.0\Transactions.csproj.CoreCompileInputs.cache
+E:\projekty\Micro1\src\Services\Transactions\obj\Debug\netcoreapp2.0\Transactions.AssemblyInfoInputs.cache
+E:\projekty\Micro1\src\Services\Transactions\obj\Debug\netcoreapp2.0\Transactions.AssemblyInfo.cs
+E:\projekty\Micro1\src\Services\Transactions\obj\Debug\netcoreapp2.0\Transactions.dll
+E:\projekty\Micro1\src\Services\Transactions\obj\Debug\netcoreapp2.0\Transactions.pdb

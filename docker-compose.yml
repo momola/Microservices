@@ -1,0 +1,12 @@
+version: '3'
+services:
+  invoice:
+    build: ./src/Services/CreateInvoice
+    ports:
+     - "8000:80"
+    depends_on:
+     - transactions
+  transactions:
+    build: ./src/Services/Transactions
+    ports:
+     - "8080:80"

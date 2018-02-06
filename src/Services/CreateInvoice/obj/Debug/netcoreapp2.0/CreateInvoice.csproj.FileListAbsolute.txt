@@ -1,0 +1,10 @@
+E:\projekty\Micro1\src\Services\CreateInvoice\bin\Debug\netcoreapp2.0\CreateInvoice.deps.json
+E:\projekty\Micro1\src\Services\CreateInvoice\bin\Debug\netcoreapp2.0\CreateInvoice.runtimeconfig.json
+E:\projekty\Micro1\src\Services\CreateInvoice\bin\Debug\netcoreapp2.0\CreateInvoice.runtimeconfig.dev.json
+E:\projekty\Micro1\src\Services\CreateInvoice\bin\Debug\netcoreapp2.0\CreateInvoice.dll
+E:\projekty\Micro1\src\Services\CreateInvoice\bin\Debug\netcoreapp2.0\CreateInvoice.pdb
+E:\projekty\Micro1\src\Services\CreateInvoice\obj\Debug\netcoreapp2.0\CreateInvoice.csproj.CoreCompileInputs.cache
+E:\projekty\Micro1\src\Services\CreateInvoice\obj\Debug\netcoreapp2.0\CreateInvoice.AssemblyInfoInputs.cache
+E:\projekty\Micro1\src\Services\CreateInvoice\obj\Debug\netcoreapp2.0\CreateInvoice.AssemblyInfo.cs
+E:\projekty\Micro1\src\Services\CreateInvoice\obj\Debug\netcoreapp2.0\CreateInvoice.dll
+E:\projekty\Micro1\src\Services\CreateInvoice\obj\Debug\netcoreapp2.0\CreateInvoice.pdb
